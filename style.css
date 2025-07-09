@@ -1,0 +1,244 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 3px;
+    
+    
+}
+header nav ul li{
+    display: inline;
+    margin-left: 40px;
+    font-size: 20PX;
+    cursor: pointer;
+    
+}
+.hero{
+    text-align: center;
+    padding: 40px;
+    padding-bottom: 8px;
+    background-color: whitesmoke;
+}
+.hero img{
+    width: 400px;
+    
+}
+
+.second{
+    background-color: lightblue;
+    color: white;
+    height: 40vh;
+    text-align: center;
+    color: black;
+    padding-top: 30px;
+    padding: 20px;
+    
+    
+    
+}
+.second h3 h5{
+    font-size: 10px;
+}
+.second image{
+    width: 150px;
+
+    
+}
+
+.third{
+    background-color: steelblue;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.third h2{
+    padding-top: 30px;
+}
+.third img{
+    width: 150px;
+}
+.outer{
+    display: inline-flex;
+}
+.box{
+    text-align: center;
+    padding-top: 12px;
+    margin: 10px;
+    background-color: whitesmoke; 
+    width: 400px; 
+    padding-right: 100PX;
+    padding-left: 100PX;
+}
+.box h2{
+    padding-top: 20px;
+}
+
+.box img{
+    width: 250px; 
+    background-color: whitesmoke;
+    margin-top: 50px;
+    padding-bottom: 30px;
+
+    
+}
+.box2{
+    text-align: center;
+    padding-top: 12px;
+    background-color: black;
+    color: white;
+    padding-left: 200PX;
+    padding-right: 240PX;
+    width: 300px;
+    
+
+}
+.box2 img{
+   width: 200px; 
+   margin-bottom: 1px;
+   margin-right: 100px;
+   
+}
+.box2 h2{
+    font-size: 18px;
+}
+.outer{
+    display: flex;
+}
+.box3{
+    text-align: center;
+    padding-top: 20px;
+     margin: 5px;
+     font-size: 10px;
+     width: 400px;
+     background-color: black;
+     padding-right: 100PX;
+     padding-left: 100PX;
+    
+     
+
+}
+.btn2{
+    background: black;
+
+}
+.btn2 button{
+    background-color: blue;
+    border: none;
+    border-radius: 20px;
+    margin-top: 12px;
+    color: white;
+    padding: 5px;
+}
+.box4 h2{
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.box4 h5{
+    margin-left: 20px;
+}
+
+.box3 img{
+    width: 400px;
+    background-color: black;
+    
+    
+    padding-top: 12PX;
+    
+}
+.box4 img{
+    width: 300px;
+    margin-left: 1px;
+    font-size: 10px;
+    margin-right: 10PX;
+    
+    text-align: center;
+    
+
+}
+.btn3{
+    text-align: center;
+    
+}
+.btn3 button{
+    background-color: blue;
+    color: white;
+    border-radius: 40px;
+    border: none;
+    padding: 5px;
+    margin-top: 12PX;
+    margin-bottom: 12PX;
+}
+    
+
+
+
+.box3 h2{
+    background-color: black;
+    color: white;
+    padding-top: 18px;
+    text-align: center;
+    font-size: 20PX;
+
+
+}
+.box3 h5{
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    font-size: 10px;
+
+    
+    text-align: center;
+}
+.box4{
+    background-color: whitesmoke;
+    margin-top: 10PX;
+    
+    
+
+    width: 800px;
+    text-align:center;
+    margin-left: 4PX;
+    
+    
+}
+.box4 h5{
+    font-size: 10px;
+}
+.btn{
+    margin-top: 12px;
+    font-size: 10px;
+}
+.btn button{
+    background-color: blue;
+    border-radius: 30px;
+    cursor: pointer;
+    color: white;
+    border: none;
+    font-size: 15px;
+    text-align: center;
+    padding: 5px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: whitesmoke;
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.footer ul{
+    list-style: none;
+}
+.footer ul li{
+    margin-bottom: 10px;
+}                                                                                                                                                   
+
